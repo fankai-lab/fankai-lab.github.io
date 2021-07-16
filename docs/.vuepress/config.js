@@ -10,7 +10,7 @@ module.exports = {
         { text: 'JavaScript', link: '/JavaScript/' }
       ],},
       { text: 'Vue.jss', link: '/vue/' },
-      { text: 'GitHub', link: 'https://github.com/fankai-lab/vuepress-demo.github.io.git' }
+      { text: 'GitHub', link: 'https://github.com/fankai-lab/fankai-lab.github.io.git' }
     ],
     sidebar: [
       {
