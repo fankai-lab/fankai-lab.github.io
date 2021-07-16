@@ -32,5 +32,4 @@ module.exports = {
       }
     ]
   },
-  theme: 'vuepress-theme-xx'
 }
